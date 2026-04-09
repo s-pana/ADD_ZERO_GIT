@@ -1,5 +1,9 @@
 # C Variables
 
+# C Variables
+
+# C Variables
+
 ## Print Line of Text
 
 ```c
